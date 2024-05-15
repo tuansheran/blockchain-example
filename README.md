@@ -1,3 +1,2 @@
-# nodejs typescript blockchain
-
-## to execute blockchain type npm run start
+# nodejs blockchain
+This is a nodejs project build with typescript to mimic example of a blockchain usage
